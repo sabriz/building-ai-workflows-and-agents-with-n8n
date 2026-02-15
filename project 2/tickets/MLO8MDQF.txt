@@ -1,0 +1,4 @@
+Name: kkk
+Submitted: 2026-02-15T15:08:28.551-06:00
+Description: has blue screen.no start
+Commit Message** | new ticket                       
