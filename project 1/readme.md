@@ -3,7 +3,7 @@
 ## Workflow Overview
 **Purpose:** Collect IT support requests, generate a unique ticket ID, and create a corresponding text file in GitHub.
 
-**Trigger:** Form submission (`Form Trigger`)
+**Trigger:** Form submission (`Form Trigger`). ..
 
 **Nodes:**
 
